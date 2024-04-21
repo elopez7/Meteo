@@ -12,7 +12,7 @@ params:
   title: "Meteo"
   description: "Made with pride in Qt."
   images: 
-    - "images/hero-image.jpg"
+    - "/images/hero-image.jpg"
 
   logo: "arrow-up.png"
 
