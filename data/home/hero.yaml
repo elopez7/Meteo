@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Meteo a **Qt** application"
+  text: "Create an app that retrieves live weather data. The app should use geolocation to be able to retrieve weather from a specified city."
+
+  buttonPrimary:
+    label: "Try it out!"
+    url: "#"
+
+  buttonSecondary:
+    label: "Check the repo."
+    url: "https://github.com/elopez7/Meteo4"
+

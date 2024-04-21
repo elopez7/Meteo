@@ -1,0 +1,31 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/screen1.jpg"
+    pretitle: ""
+    title: "Powered by Qt"
+    text: "Written with the flexibility of QML and the power of C++"
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+  - image: "images/screen2.jpg"
+    pretitle: ""
+    title: "Live Map Support"
+    text: "Select the location where you want the current weather to be reported from."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+  - image: "images/screen3.jpg"
+    pretitle: ""
+    title: "OpenWeatherMap API"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
